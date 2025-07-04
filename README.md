@@ -15,7 +15,6 @@ This is a full-stack e-learning web application where users can sign up, log in,
 **Cart Page**  
 ![Cart Page](https://github.com/user-attachments/assets/08ade0fb-ba0f-4080-82df-23f6e17b0e9d)
 
----
 
 ## Technical Overview
 
@@ -27,13 +26,11 @@ This is a full-stack e-learning web application where users can sign up, log in,
 
 The frontend communicates with backend APIs for user authentication and cart operations. Course previews are embedded using YouTube links.
 
----
 
 ## Backend Setup (Node + MongoDB)
-cd backend
-npm install
-node server.js
-
+- cd backend
+- npm install
+- node server.js
 
 
 ## Selenium Automation Test
@@ -57,8 +54,3 @@ node tests/Automation.js
 - Integrate Razorpay/PayPal
 - Admin dashboard for course management
 
----
-
-Developed By
-Padmavarshini
-- GitHub: @padmavarshini19
