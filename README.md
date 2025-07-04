@@ -29,33 +29,29 @@ The frontend communicates with backend APIs for user authentication and cart ope
 
 ---
 
-## 🔧 Backend Setup (Node + MongoDB)
+## Backend Setup (Node + MongoDB)
 cd backend
 npm install
 node server.js
 
----
 
-Selenium Automation Test
+
+## Selenium Automation Test
 The project includes a Selenium-based test that automates:
 
 Navigating to homepage
 Testing login page
 Clicking through tabs
 
-Run using:
+- **Run using**:
 node tests/Automation.js
 
----
-
-Authentication Flow
+## Authentication Flow
 Passwords stored in plain text (in demo)
 MongoDB stores user credentials
 Conditional rendering for login/logout states
 
----
-
-Future Improvements
+## Future Improvements
 Add JWT-based token authentication
 Real-time course progress tracking
 Integrate Razorpay/PayPal
