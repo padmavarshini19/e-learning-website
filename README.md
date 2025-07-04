@@ -39,26 +39,26 @@ node server.js
 ## Selenium Automation Test
 The project includes a Selenium-based test that automates:
 
-Navigating to homepage
-Testing login page
-Clicking through tabs
+- Navigating to homepage
+- Testing login page
+- Clicking through tabs
 
-- **Run using**:
+**Run using**:
 node tests/Automation.js
 
 ## Authentication Flow
-Passwords stored in plain text (in demo)
-MongoDB stores user credentials
-Conditional rendering for login/logout states
+- Passwords stored in plain text (in demo)
+- MongoDB stores user credentials
+- Conditional rendering for login/logout states
 
 ## Future Improvements
-Add JWT-based token authentication
-Real-time course progress tracking
-Integrate Razorpay/PayPal
-Admin dashboard for course management
+- Add JWT-based token authentication
+- Real-time course progress tracking
+- Integrate Razorpay/PayPal
+- Admin dashboard for course management
 
 ---
 
 Developed By
 Padmavarshini
-GitHub: @padmavarshini19
+- GitHub: @padmavarshini19
